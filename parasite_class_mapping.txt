@@ -1,0 +1,9 @@
+Índice,Nombre
+1,Babesia
+2,Leishmania
+3,Leukocyte
+4,Plasmodium
+5,RBCs
+6,Toxoplasma
+7,Trichomonad
+8,Trypanosome

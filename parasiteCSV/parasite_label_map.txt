@@ -1,0 +1,9 @@
+Numeric_Label,Parasite_Name
+6,toxoplasma
+8,trypanosome
+3,leukocyte
+5,rbcs
+2,leishmania
+1,babesia
+4,plasmodium
+7,trichomonad

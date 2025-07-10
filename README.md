@@ -1,5 +1,5 @@
 # AA
-GEI-AA 614G010382425 - Aprendizaxe Automática - Grao en Enxeñaría Informática
+GEI-AA 614G010382425 - Aprendizaxe Automática 24-25 - Grao en Enxeñaría Informática
 
 ## Dataset
 
